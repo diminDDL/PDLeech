@@ -1,4 +1,6 @@
 (fp_lib_table
   (lib (name "USB-A")(type "KiCad")(uri "${KIPRJMOD}/lib/USB-A")(options "")(descr ""))
   (lib (name "type-c_plug")(type "KiCad")(uri "${KIPRJMOD}/lib/type-c_plug.pretty")(options "")(descr ""))
+  (lib (name "Ind-4012")(type "KiCad")(uri "${KIPRJMOD}/lib/Ind-4012.pretty")(options "")(descr ""))
+  (lib (name "TPS62175DQC")(type "KiCad")(uri "${KIPRJMOD}/lib/TPS62175DQC.pretty")(options "")(descr ""))
 )
